@@ -22,8 +22,7 @@ namespace BeginingWinForms.Static
         {
             InitializeComponent();
         }
-
-        private void btnStatic_MouseMove(object sender, MouseEventArgs e)
+                private void btnStatic_MouseMove(object sender, MouseEventArgs e)
         {
             //т.к. не сказано как именно он убегает - то рандомно :)
             Random r = new Random();
