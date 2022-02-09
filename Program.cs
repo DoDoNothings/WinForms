@@ -23,6 +23,8 @@ namespace BeginingWinForms
             //Application.Run(new Day_of_Week.Day());
             //Application.Run(new CountDays.Count_days());
             // Application.Run(new _Rectangle.Rectangles());
+             Application.Run(new Oil.BestOil());
+
         }
 
     }
